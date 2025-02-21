@@ -1,4 +1,4 @@
-title:My
+title:My God Rolls
 
 // Adamantite (Adept) - My God Roll (god-pve,pve)
 //notes: God Roll tags:god-pve,pve
@@ -10,22 +10,6 @@ dimwishlist:item=601574723&perks=839105230,3142289711,692399809,2298656195,87823
 dimwishlist:item=727781522&perks=839105230,689005463,3643424744,1134488199,878237828
 
 
-// Eyes Unveiled ()
-dimwishlist:item=727781522&perks=839105230
-
-
-// Eyes Unveiled ()
-dimwishlist:item=727781522&perks=689005463
-
-
-// Eyes Unveiled ()
-dimwishlist:item=727781522&perks=3643424744
-
-
-// Eyes Unveiled ()
-dimwishlist:item=727781522&perks=1134488199
-
-
 // Unsworn - My God Roll (god-pve)
 //notes: God Roll, MW Reichweite tags:god-pve
 dimwishlist:item=1303313141&perks=839105230,2680121939,3418782618,4198902903,1298135794
@@ -34,22 +18,6 @@ dimwishlist:item=1303313141&perks=839105230,2680121939,3418782618,4198902903,129
 // Watchful Eye - My God Roll (god-pve,pve)
 //notes: My God Roll tags:god-pve,pve
 dimwishlist:item=1757177186&perks=839105230,2420895100,3643424744,3966416502,878237828
-
-
-// Watchful Eye ()
-dimwishlist:item=1757177186&perks=839105230
-
-
-// Watchful Eye ()
-dimwishlist:item=1757177186&perks=2420895100
-
-
-// Watchful Eye ()
-dimwishlist:item=1757177186&perks=3643424744
-
-
-// Watchful Eye ()
-dimwishlist:item=1757177186&perks=3966416502
 
 
 // Unworthy - My God Roll (god-pve,pve)
@@ -85,25 +53,3 @@ dimwishlist:item=3485029080&perks=839105230,3142289711,692399809,2298656195,8782
 // Psychopomp - My God Roll (god-pve)
 //notes: My God Roll MW Reload tags:god-pve
 dimwishlist:item=4028298892&perks=1478423395,2822142346,2010801679,3218042543,878237828
-
-
-// Psychopomp - 1 ()
-//notes: 1
-dimwishlist:item=4028298892&perks=1478423395
-
-
-// Psychopomp - 2 ()
-//notes: 2
-dimwishlist:item=4028298892&perks=2822142346
-
-
-// Psychopomp - 3 ()
-//notes: 3
-dimwishlist:item=4028298892&perks=2010801679
-
-
-// Psychopomp - 4 ()
-//notes: 4
-dimwishlist:item=4028298892&perks=3218042543
-
-
